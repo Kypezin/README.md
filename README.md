@@ -21,5 +21,3 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Kype&theme=midnight-purple&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=psauxx&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a><img align="right" alt="Kype-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="right" alt="Kype-C#" height="30" width="30" src="https://user-images.githubusercontent.com/39069727/129460992-1706f4ea-069c-4726-bdd6-be654ffc40b7.png">
 <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-
-  
